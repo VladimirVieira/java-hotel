@@ -1,10 +1,10 @@
 # Introdução (Problemática)
 
-O Hotel é um estabelecimento comercial especializado em proporcionar acomodações aos viajantes. Esse meio de hospedagem, geralmente, recebe uma determinada classificação, que leva em consideração o seu conforto e luxo. Diante disso, para otimizar os serviços oferecidos pelo Hotel IMD, desenvolvemos um sistema de gerenciamento de dados para o estabelecimento.
+O Hotel é um estabelecimento comercial especializado em proporcionar acomodações aos viajantes. Esse meio de hospedagem, geralmente, recebe uma determinada classificação, que leva em consideração o seu conforto e luxo. Diante disso, para otimizar os serviços oferecidos pelo Hotel IMD, desenvolvemos um sistema de cadastro.
 
 # Ambientação
 
-Ao inicializar o sistema de gerenciamento de dados do Hotel IMD, você deverá encontrar uma barra de menu, e nela você encontrará as seguintes opções:
+Ao inicializar o sistema de cadastro de dados do Hotel IMD, você deverá encontrar uma barra de menu, e nela você encontrará as seguintes opções:
 
   [1] Menu Cliente - Ao selecionar esta opção você poderá gerenciar os dados dos clientes do Hotel IMD, ou seja, você poderá registrar novos clientes (nome, checkin/checkout,data) e caso necessite excluir algum dado de um determinado cliente que esteja cadastrado, você poderá clicar no registro que deseja e excluir.
       
@@ -24,8 +24,11 @@ Ao inicializar o sistema de gerenciamento de dados do Hotel IMD, você deverá e
 
 # Compilando e executando
 
+Efetue o download dos arquivos presente em: cadastroR>src>Sistemacopia
+
 O código foi desevolvido por meio da linguagem java. Portanto, sugerimos que ao utilizar a IDE eclipse, você siga os seguintes passos: novo projeto>General>Project>Selecione o caminho do projeto>Finish.
 
+Efetue o download dos arquivos presente em doc. Nestes arquivos você poderá verificar toda documentação do projeto.
 
 # Objetivo
 
