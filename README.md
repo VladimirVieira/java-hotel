@@ -14,7 +14,7 @@ Ao inicializar o sistema de cadastro de dados do Hotel IMD, você deverá encont
       
   [4] Menu sair - Ao selecionar esta opção, podemos confirmar a saída do sistema e com isso o mesmo pode ser finalizado.
   
-  
+  [5] Link para visualizar o sistema de cadastro funcionando: https://youtu.be/Ef4sT6biuJc
 
 # Itens implementados
 
