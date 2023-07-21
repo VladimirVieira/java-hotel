@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Sistemacopia","l":"Hotel"},{"p":"Sistemacopia","l":"Servicos"},{"p":"Sistemacopia","l":"ViewCliente"},{"p":"Sistemacopia","l":"ViewFuncionario1"}];updateSearchResults();
